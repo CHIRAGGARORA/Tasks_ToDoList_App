@@ -6,9 +6,11 @@ Want to increase your productivity multi folds?
 Worry Not!!   A simple and clean User friendly To Do App is here (Available in both Light Mode | Dark Mode
 
 
-Just add your tasks fro the day 
+Just add your tasks for the day 
 
-Checkmark it as you finish
+Checkmark them as you finish
+
+And move onto the Next-Big Thing!!
 
 Edit the tasks in Priority order as you Want!!
 
