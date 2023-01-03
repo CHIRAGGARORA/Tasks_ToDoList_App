@@ -1,4 +1,3 @@
-
 # TASKS -> (A To-DO List App)
 Want to increase your productivity multi folds?
 Worry Not!!   A simple and clean User friendly To Do App is here (Available in both Light Mode | Dark Mode
